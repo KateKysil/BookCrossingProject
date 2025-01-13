@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookCrossingProject", "BookCrossingProject\BookCrossingProject.csproj", "{B2BD8431-7731-430B-99B5-A4E0E3DE386D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2BD8431-7731-430B-99B5-A4E0E3DE386D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2BD8431-7731-430B-99B5-A4E0E3DE386D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2BD8431-7731-430B-99B5-A4E0E3DE386D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2BD8431-7731-430B-99B5-A4E0E3DE386D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D54B57E3-E2EB-4468-9026-D26A78841BB1}
+	EndGlobalSection
+EndGlobal
